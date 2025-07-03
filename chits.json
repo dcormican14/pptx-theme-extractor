@@ -1,0 +1,200 @@
+[
+  {
+    "file": "abstract-deck.pptx",
+    "theme": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#F8F0E3",
+      "lt2": "#E7E6E6",
+      "accent1": "#224E7F",
+      "accent2": "#385E88",
+      "accent3": "#AA2070",
+      "accent4": "#EC008C",
+      "accent5": "#582156",
+      "accent6": "#958EA2",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "title": "Title",
+    "slideTitles": [
+      "",
+      "Agenda",
+      "",
+      "",
+      "Engaging the audience",
+      "",
+      "Effective delivery techniques​",
+      "Navigating Q&A sessions",
+      "Speaking impact​",
+      "Dynamic delivery​",
+      "Final tips & takeaways​",
+      "Speaking engagement metrics​",
+      ""
+    ]
+  },
+  {
+    "file": "architecture-deck.pptx",
+    "theme": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0A4054",
+      "lt2": "#E7E6E6",
+      "accent1": "#66B2B0",
+      "accent2": "#F2494C",
+      "accent3": "#F39891",
+      "accent4": "#F9AA19",
+      "accent5": "#F9C996",
+      "accent6": "#9FD1D0",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "title": "Title",
+    "slideTitles": [
+      "",
+      "Agenda ",
+      "The power of communication",
+      "Overcoming nervousness",
+      "Engaging the audience",
+      "Selecting ",
+      "Effective delivery techniques",
+      "Navigating Q&A sessions",
+      "Speaking impact",
+      "Dynamic delivery",
+      "Final tips & takeaways",
+      "Navigating Q&A sessions ",
+      "Thank you "
+    ]
+  },
+  {
+    "file": "basic-deck.pptx",
+    "theme": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#001E2E",
+      "lt2": "#F0ECEC",
+      "accent1": "#155767",
+      "accent2": "#BA9CA0",
+      "accent3": "#A57931",
+      "accent4": "#0E577C",
+      "accent5": "#CC846E",
+      "accent6": "#93767A",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "title": "Title",
+    "slideTitles": [
+      "",
+      "AGENDA",
+      "",
+      "",
+      "ENGAGING THE AUDIENCE",
+      "",
+      "EFFECTIVE DELIVERY TECHNIQUES",
+      "NAVIGATING Q&A SESSIONS",
+      "SPEAKING IMPACT",
+      "DYNAMIC DELIVERY",
+      "FINAL TIPS & TAKEAWAYS",
+      "SPEAKING ENGAGEMENT METRICS",
+      "THANK YOU"
+    ]
+  },
+  {
+    "file": "galaxy-deck.pptx",
+    "theme": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#10013F",
+      "lt2": "#F2F0FF",
+      "accent1": "#814DFF",
+      "accent2": "#243FFF",
+      "accent3": "#FF83B6",
+      "accent4": "#FF9022",
+      "accent5": "#FF1F85",
+      "accent6": "#1A98FF",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "title": "Title",
+    "slideTitles": [
+      "",
+      "Agenda",
+      "",
+      "",
+      "Engaging the audience",
+      "",
+      "Effective delivery techniques",
+      "Navigating Q&A sessions",
+      "",
+      "Dynamic delivery",
+      "Final tips & takeaways",
+      "Speaking engagement metrics",
+      "Thank you"
+    ]
+  },
+  {
+    "file": "pitch-deck.pptx",
+    "theme": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "accent1": "#E9E6DF",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "title": "Pitch deck",
+    "slideTitles": [
+      "Pitch deck",
+      "About us",
+      "Company overview",
+      "Product overview",
+      "Problem ",
+      "Product benefits",
+      "Our competition",
+      "Product overview ",
+      "Growth strategy",
+      "Market overview",
+      "Solution",
+      "Financials",
+      "Thank you"
+    ]
+  },
+  {
+    "file": "tech-deck.pptx",
+    "theme": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#FC4EFB",
+      "lt2": "#E7E6E6",
+      "accent1": "#FAF24C",
+      "accent2": "#5EFCAC",
+      "accent3": "#73EBF9",
+      "accent4": "#316CFC",
+      "accent5": "#B059FD",
+      "accent6": "#9405FC",
+      "hlink": "#FFFFFF",
+      "folHlink": "#FFFFFF"
+    },
+    "title": "BASIC",
+    "slideTitles": [
+      "BASIC",
+      "Agenda",
+      "The Power of",
+      "Overcoming ",
+      "ENGAGING THE AUDIENCE",
+      "SELECTING",
+      "EFFECTIVE DELIVERY TECHNIQUES",
+      "NAVIGATING Q&A SESSIONS",
+      "SPEAKING IMPACT",
+      "DYNAMIC DELIVERY",
+      "FINAL TIPS & TAKEAWAYS",
+      "SPEAKING ENGAGEMENT METRICS",
+      "THANK YOU"
+    ]
+  }
+]
